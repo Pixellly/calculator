@@ -1,0 +1,11 @@
+.calculator {
+    max-width: 100;
+    /* display: flex; */
+    /* justify-content: space-between; */
+}
+
+.screen {
+    border: black solid 1px;
+    width: 100px;
+    height: 20px;
+}
